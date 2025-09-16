@@ -8,6 +8,7 @@ for even number it checks the remainder of the give number when divide by 2 if t
 else, its odd 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **task2**
+
 sum of integers 1 to  100 
 in this programme i have used for loops to display sum of given integers 
 first we give start with total=0 because at the beginning we have not added anything 
